@@ -1,0 +1,45 @@
+.container{
+    width: 1280px;
+    margin: 0px auto;
+}
+.navbar-nav{
+    margin: 0px auto;
+}
+
+.nav-item{
+    font-size: 18px;
+    padding: 0px 8px;
+    margin: auto;
+}
+.nav-link:hover{
+    color: red;
+}
+
+.img1{
+    background: url(Imges/banner-1.jpg);
+}
+.carousel-demo{
+    margin-top: 90px;
+}
+.card{
+    margin: 10px;
+    width: 20%;
+}
+.left-img {
+    margin-left: 20px;
+    width: 50%;
+    height: 400px ;
+    background:url(Imges/banner-08.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    float: left;
+}
+.right-img {
+    width:48%;
+    height: 400px ;
+    background:url(Imges/banner-4.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0%;
+    float: right;
+
+}
